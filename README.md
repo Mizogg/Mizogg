@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🌱 I’m currently learning Much more to come 😄
 
 ### Sites: 
 #https://mizogg.co.uk/ Crypto Info and Tools
