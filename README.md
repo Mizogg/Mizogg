@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Sites: 
+#https://mizogg.co.uk/ Crypto Info and Tools
+
+#https://mizogg.com/ CRYPTO CHARTS&INFORMATION
+
+![MizoggFaceBW](https://user-images.githubusercontent.com/88630056/128759006-b21d8662-2382-4fbc-ba77-d7addc87fdb7.png)
+
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
