@@ -7,16 +7,27 @@
 
 
 Tools needed for Python Programs used here:
+
 https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
+
 pip3 install bitcoin
+
 pip3 install pycryptodome
+
 pip3 install python-bitcoinlib
+
 pip3 install bit
+
 pip3 install bitcash
+
 pip3 install base58
+
 pip3 install chainside-btcpy
+
 pip3 install eth_keys
+
 pip3 install eth-hash[pycryptodome]
+
 pip3 install request
 
 
