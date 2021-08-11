@@ -1,10 +1,11 @@
 ### Hi there 👋 🌱 I’m currently learning Much more to come 😄
 
 ### Sites: 
-#https://mizogg.co.uk/ Crypto Info and Tools
+#https://mizogg.co.uk/ ✨✨Crypto Info and Tools✨✨
 
-#https://mizogg.com/ CRYPTO CHARTS&INFORMATION
+#https://mizogg.com/ ✨✨CRYPTO CHARTS&INFORMATION✨✨
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 Tools needed for Python Programs used here:
 
@@ -30,8 +31,7 @@ pip3 install eth-hash[pycryptodome]
 
 pip3 install request
 
-
-![MizoggFaceBW](https://user-images.githubusercontent.com/88630056/128759006-b21d8662-2382-4fbc-ba77-d7addc87fdb7.png)
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
