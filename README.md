@@ -1,13 +1,13 @@
 ### Hi there 👋 🌱 I’m currently learning Much more to come 😄
 
 ### Sites: 
-# https://mizogg.co.uk/ ✨✨Crypto Info and Tools✨✨
+### https://mizogg.co.uk/ ✨✨Crypto Info and Tools✨✨
 
-# https://mizogg.com/ ✨✨CRYPTO CHARTS&INFORMATION✨✨
+### https://mizogg.com/ ✨✨CRYPTO CHARTS&INFORMATION✨✨
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
-Tools needed for Python Programs used here:
+### Tools needed for Python Programs used here:
 
 https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
 
