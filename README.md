@@ -38,6 +38,7 @@ https://github.com/Mizogg/4Bitcoin
 
 https://github.com/Mizogg/Bitcoin-r2.py
 
+https://github.com/Mizogg/Bitcoin-r2.py/blob/main/sochain.py
 
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
