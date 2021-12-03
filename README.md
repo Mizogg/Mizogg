@@ -32,7 +32,8 @@ pip3 install eth-hash[pycryptodome]
 pip3 install request
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
-![image](https://user-images.githubusercontent.com/88630056/144658558-fb5d3662-5051-4532-b335-7b014669d72f.png)
+
+https://user-images.githubusercontent.com/88630056/144673840-bc33d8f8-65e5-4520-98e4-f83d5e933607.mp4
 
 https://github.com/Mizogg/4Bitcoin
 
@@ -42,6 +43,9 @@ https://github.com/Mizogg/Bitcoin-r2.py/blob/main/sochain.py
 
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
