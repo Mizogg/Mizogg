@@ -41,6 +41,11 @@ https://github.com/Mizogg/Bitcoin-r2.py
 
 https://github.com/Mizogg/Bitcoin-r2.py/blob/main/sochain.py
 
+## keys.py 256 Address Checked every 10 seconds.
+
+![image](https://user-images.githubusercontent.com/88630056/144725629-27307bd0-0baf-447c-ab3e-a3c98bc47377.png)
+https://github.com/Mizogg/keys.py-Random-keys.lol
+
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
