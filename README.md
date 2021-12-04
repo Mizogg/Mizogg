@@ -11,29 +11,34 @@
 
 https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
 
-pip3 install bitcoin
+pip install bitcoin
 
-pip3 install pycryptodome
+pip install pycryptodome
 
-pip3 install python-bitcoinlib
+pip install python-bitcoinlib
 
-pip3 install bit
+pip install bit
 
-pip3 install bitcash
+pip install bitcash
 
-pip3 install base58
+pip install base58
 
-pip3 install chainside-btcpy
+pip install chainside-btcpy
 
-pip3 install eth_keys
+pip install eth_keys
 
-pip3 install eth-hash[pycryptodome]
+pip install eth-hash[pycryptodome]
 
-pip3 install request
+pip install request
+
+pip install rich
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
-https://user-images.githubusercontent.com/88630056/144673840-bc33d8f8-65e5-4520-98e4-f83d5e933607.mp4
+
+https://user-images.githubusercontent.com/88630056/144726177-dbc6d289-85de-468c-9bdc-aebdd725b869.mp4
+
+
 
 https://github.com/Mizogg/4Bitcoin
 
@@ -43,8 +48,10 @@ https://github.com/Mizogg/Bitcoin-r2.py/blob/main/sochain.py
 
 ## keys.py 256 Address Checked every 10 seconds.
 
-![image](https://user-images.githubusercontent.com/88630056/144725629-27307bd0-0baf-447c-ab3e-a3c98bc47377.png)
 https://github.com/Mizogg/keys.py-Random-keys.lol
+
+![image](https://user-images.githubusercontent.com/88630056/144726216-e2427f5a-6dc1-47f4-b5e7-8fdcf6b49d72.png)
+
 
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
