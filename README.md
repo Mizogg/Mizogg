@@ -3,8 +3,6 @@
 ### Sites: 
 ### https://mizogg.co.uk/ ✨✨Crypto Info and Tools✨✨
 
-### https://mizogg.com/ ✨✨CRYPTO CHARTS&INFORMATION✨✨
-
 ✨✨Join me on Telegram https://t.me/CryptoCrackersUK ✨✨ for updates and more information
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
