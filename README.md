@@ -5,6 +5,8 @@
 
 ### https://mizogg.com/ ✨✨CRYPTO CHARTS&INFORMATION✨✨
 
+✨✨Join me on Telegram https://t.me/CryptoCrackersUK ✨✨ for updates and more information
+
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
 ### Tools needed for Python Programs used here:
