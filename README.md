@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/88630056/171273049-6e48052e-673e-43bd-a0e0-2ed679cbbc69.png)
+
+
 ### Hi there 👋 🌱 I’m currently learning Much more to come 😄
 
 ### Sites: 
@@ -34,23 +37,6 @@ pip install request
 pip install rich
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
-
-
-https://user-images.githubusercontent.com/88630056/144726177-dbc6d289-85de-468c-9bdc-aebdd725b869.mp4
-
-
-
-https://github.com/Mizogg/4Bitcoin
-
-https://github.com/Mizogg/Bitcoin-r2.py
-
-https://github.com/Mizogg/Bitcoin-r2.py/blob/main/sochain.py
-
-## keys.py 256 Address Checked every 10 seconds.
-
-https://github.com/Mizogg/keys.py-Random-keys.lol
-
-![image](https://user-images.githubusercontent.com/88630056/144726216-e2427f5a-6dc1-47f4-b5e7-8fdcf6b49d72.png)
 
 
 <!--
