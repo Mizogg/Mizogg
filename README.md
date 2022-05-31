@@ -36,6 +36,16 @@ pip install request
 
 pip install rich
 
+pip install mnemonic
+
+pip install bip32utils
+
+pip install hdwallet
+
+pip install simplebloomfliter
+
+pip install bitarray==1.9.2
+
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
 
