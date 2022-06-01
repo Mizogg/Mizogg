@@ -51,6 +51,10 @@ pip install bitarray==1.9.2
 ## ✨✨✨ Best Python Programs ✨✨✨
 
 ### 🐍Python-WebServer🐍
+
+![image](https://user-images.githubusercontent.com/88630056/171491074-03b26077-039f-42e7-ace5-22119f71d9ff.png)![image](https://user-images.githubusercontent.com/88630056/171491164-60de3d20-e6dd-4914-a999-b552d2fc4d06.png)
+
+
 Get it from GitHub
 https://github.com/Mizogg/Python-WebServer
 
