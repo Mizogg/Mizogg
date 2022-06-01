@@ -66,6 +66,7 @@ http://194.163.146.206:3333/1
 https://github.com/Mizogg/Mizogg-Tools
 
 30 Crypto Tools for Bitcoin ETH and much more. Made in Python. Also Telegram Version
+Test it here : https://replit.com/@Mizogg
 ![image](https://user-images.githubusercontent.com/88630056/171490600-70ff555f-a315-4d51-acec-d833df5b88ed.png)
 
 ![image](https://user-images.githubusercontent.com/88630056/171490695-0fa05dc7-6de4-469a-a848-378af1d195ec.png)
