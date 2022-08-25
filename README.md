@@ -6,7 +6,17 @@
 ### Sites: 
 ### https://mizogg.co.uk/ ✨✨Crypto Info and Tools✨✨
 
+📫 How to reach me:
+
 ✨✨Join me on Telegram https://t.me/CryptoCrackersUK ✨✨ for updates and more information
+
+🔭 Test Out my Telegram Tools 🔭 
+
+https://t.me/Mizoggs_Crypto_Tools_Bot
+
+And
+
+https://t.me/Mizoggs_Crypto_Tools_RU_Bot
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
