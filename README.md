@@ -69,7 +69,7 @@ Get it from GitHub
 https://github.com/Mizogg/Python-WebServer
 
 TEST it HERE :
-http://194.163.146.206:3333/1
+http://194.163.146.206
 
 ### Mizogg's Tools
 
