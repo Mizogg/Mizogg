@@ -10,14 +10,6 @@
 
 ✨✨Join me on Telegram https://t.me/CryptoCrackersUK ✨✨ for updates and more information
 
-🔭 Test Out my Telegram Tools 🔭 
-
-https://t.me/Mizoggs_Crypto_Tools_Bot
-
-And
-
-https://t.me/Mizoggs_Crypto_Tools_RU_Bot
-
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
 ### Tools needed for Python Programs used here:
@@ -64,24 +56,12 @@ pip install bitarray==1.9.2
 
 ![image](https://user-images.githubusercontent.com/88630056/171491074-03b26077-039f-42e7-ace5-22119f71d9ff.png)![image](https://user-images.githubusercontent.com/88630056/171491164-60de3d20-e6dd-4914-a999-b552d2fc4d06.png)
 
+### 🐍Tkinter-Power🐍
 
 Get it from GitHub
 https://github.com/Mizogg/Python-WebServer
+https://github.com/Mizogg/Tkinter-Power
 
-TEST it HERE :
-http://194.163.146.206
-
-### Mizogg's Tools
-
-https://github.com/Mizogg/Mizogg-Tools
-
-30 Crypto Tools for Bitcoin ETH and much more. Made in Python. Also Telegram Version
-Test it here : https://replit.com/@Mizogg
-![image](https://user-images.githubusercontent.com/88630056/171490600-70ff555f-a315-4d51-acec-d833df5b88ed.png)
-
-![image](https://user-images.githubusercontent.com/88630056/171490695-0fa05dc7-6de4-469a-a848-378af1d195ec.png)
-
-![image](https://user-images.githubusercontent.com/88630056/171490752-b0f4212a-6ad9-4b35-ab6f-a388228551b1.png)
 
 
 <!--
