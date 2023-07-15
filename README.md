@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/88630056/171273049-6e48052e-673e-43bd-a0e0-2ed679cbbc69.png)
-
 
 ### Hi there 👋 🌱 I’m currently learning Much more to come 😄
+
+## ✨If you Like my work please Give me a Star✨
 
 ### Sites: 
 ### https://mizogg.co.uk/ ✨✨Crypto Info and Tools✨✨
@@ -12,10 +12,33 @@
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
+## ✨✨✨ Best Python Programs ✨✨✨
+
+### 🐍Python-WebServer🐍
+
+![image](https://user-images.githubusercontent.com/88630056/171491074-03b26077-039f-42e7-ace5-22119f71d9ff.png)
+
+### 🐍Tkinter-Power🐍
+
+![image](https://user-images.githubusercontent.com/88630056/201468891-a203d8c5-a6db-4175-a47e-7a4317428267.png)
+
+### 🐍Hunting-with-PyQt5🐍
+
+![image](https://github.com/Mizogg/Mizogg/assets/88630056/a2b07592-acad-44f5-a38b-86da357eb55f)
+
+Get it from GitHub
+
+https://github.com/Mizogg/Python-WebServer
+https://github.com/Mizogg/Tkinter-Power
+https://github.com/Mizogg/Hunting-with-PyQt5
+
+## Mizogg.co.uk © 2023 Donations: 3GCypcW8LWzNfJEsTvcFwUny3ygPzpTfL4 Contact:meetmizogg@mizogg.co.uk
+😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
+
 ### Tools needed for Python Programs used here:
 
 https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
-
+```
 pip install bitcoin
 
 pip install pycryptodome
@@ -48,23 +71,8 @@ pip install simplebloomfliter
 
 pip install bitarray==1.9.2
 
-😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
-
-## ✨✨✨ Best Python Programs ✨✨✨
-
-### 🐍Python-WebServer🐍
-
-![image](https://user-images.githubusercontent.com/88630056/171491074-03b26077-039f-42e7-ace5-22119f71d9ff.png)![image](https://user-images.githubusercontent.com/88630056/171491164-60de3d20-e6dd-4914-a999-b552d2fc4d06.png)
-
-### 🐍Tkinter-Power🐍
-
-![image](https://user-images.githubusercontent.com/88630056/201468891-a203d8c5-a6db-4175-a47e-7a4317428267.png)
-
-Get it from GitHub
-
-https://github.com/Mizogg/Python-WebServer
-https://github.com/Mizogg/Tkinter-Power
-
+pip install pyqt5
+```
 
 <!--
 **Mizogg/Mizogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
