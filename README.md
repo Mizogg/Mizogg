@@ -14,6 +14,10 @@
 
 ## ✨✨✨ Best Python Programs ✨✨✨
 
+### 🐍16x16🐍
+
+![image](https://github.com/Mizogg/Mizogg/assets/88630056/71db470e-fd78-413f-ab5c-ec9dc1a77255)
+
 ### 🐍Python-WebServer🐍
 
 ![image](https://user-images.githubusercontent.com/88630056/171491074-03b26077-039f-42e7-ace5-22119f71d9ff.png)
