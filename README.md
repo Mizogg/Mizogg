@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 
-✨✨Join me on Telegram https://t.me/CryptoCrackersUK ✨✨ for updates and more information
+✨✨Join me on Telegram https://t.me/TeamHunter_GUI ✨✨ for updates and more information
 
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
