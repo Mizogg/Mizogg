@@ -14,6 +14,11 @@
 
 ## ✨✨✨ Best Python Programs ✨✨✨
 
+
+### 🐍TeamHunter🐍
+
+![image](https://github.com/Mizogg/Mizogg/assets/88630056/d0d1d32a-1ade-4e03-bf5e-23944877efdc)
+
 ### 🐍16x16🐍
 
 ![image](https://github.com/Mizogg/Mizogg/assets/88630056/71db470e-fd78-413f-ab5c-ec9dc1a77255)
