@@ -41,7 +41,7 @@ https://github.com/Mizogg/Python-WebServer
 https://github.com/Mizogg/Tkinter-Power
 https://github.com/Mizogg/Hunting-with-PyQt5
 
-## Mizogg.co.uk © 2023 Donations: 3GCypcW8LWzNfJEsTvcFwUny3ygPzpTfL4 Contact:meetmizogg@mizogg.co.uk
+## Mizogg.co.uk © 2023 Donations: 3GCypcW8LWzNfJEsTvcFwUny3ygPzpTfL4
 😍 🥰 😘 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 😊 😇 🙂
 
 ### Tools needed for Python Programs used here:
